@@ -40,7 +40,7 @@ fun ImageGrid() {
         R.drawable.img7,
         R.drawable.img6,
         R.drawable.img8,
-        R.drawable.img9
+        R.drawable.img9,
 
     )
 
